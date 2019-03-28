@@ -1,5 +1,5 @@
 setTimeout(function(){ 
-	if(confirm("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please")){
+	if(confirm("Veux tu aller sur xxxvidsxxx ?")){
 	window.location.href = "http://www.youtube.com/watch?v=dQw4w9WgXcQ"	
 }
 }, 1000);
