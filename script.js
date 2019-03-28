@@ -1,6 +1,8 @@
 setTimeout(function(){ 
-	alert("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please");
-}, 10000);
+	if(confirm("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please")){
+	window.location.href = "http://www.youtube.com/watch?v=dQw4w9WgXcQ"	
+}
+}, 1000);
 
 let a = document.getElementsByTagName('body');
 a = a[0];
