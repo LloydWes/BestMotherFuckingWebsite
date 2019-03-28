@@ -1,6 +1,6 @@
 setTimeout(function(){ 
 	alert("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please");
-}, 10000000);
+}, 10000);
 
 let a = document.getElementsByTagName('body');
 a = a[0];
